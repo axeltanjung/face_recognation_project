@@ -19,7 +19,7 @@ This project is designed to implement a face recognition system for attendance t
 ## Installation
 1. Clone the repository:
     ```bash
-    git clone https://github.com/yourusername/face_recognition_attendance.git
+    git clone https://github.com/axeltanjung/face_recognition_project.git
     ```
 2. Navigate to the project directory:
     ```bash
