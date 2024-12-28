@@ -19,7 +19,7 @@ This project is designed to implement a face recognition system for attendance t
 ## Installation
 1. Clone the repository:
     ```bash
-    git clone https://github.com/axeltanjung/face_recognition_project.git
+    git clone https://github.com/axeltanjung/face_recognation_project.git
     ```
 2. Navigate to the project directory:
     ```bash
@@ -33,7 +33,7 @@ This project is designed to implement a face recognition system for attendance t
 ## Usage
 1. Run the face recognition script:
     ```bash
-    python recognize_faces.py
+    python face_recognition.py
     ```
 2. Access the web interface (if using Flask):
     ```bash
